@@ -1,0 +1,23 @@
+{
+    "name": "vior-sfc-template",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "vior": "^0.4.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jwhgzs/vior-sfc-template.git"
+    },
+    "keywords": ["vior", "cli", "sfc", "jwhgzs"],
+    "author": "jwhgzs",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jwhgzs/vior-sfc-template/issues"
+    },
+    "homepage": "https://github.com/jwhgzs/vior-sfc-template#readme"
+}
