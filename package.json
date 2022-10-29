@@ -1,14 +1,14 @@
 {
     "name": "vior-sfc-template",
     "type": "module",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "",
     "main": "",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
-        "vior": "^0.4.0"
+        "vior": "latest"
     },
     "repository": {
         "type": "git",
